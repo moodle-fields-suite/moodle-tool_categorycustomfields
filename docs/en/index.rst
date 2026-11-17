@@ -38,4 +38,4 @@ Main features
 Links
 -----
 
-* Source code and issues: https://github.com/moodle-fields-suite/tool_categorycustomfields
+* Source code and issues: https://github.com/moodle-fields-suite/moodle-tool_categorycustomfields
