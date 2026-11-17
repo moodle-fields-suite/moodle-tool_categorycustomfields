@@ -38,4 +38,4 @@ Principais recursos
 Links
 -----
 
-* Código-fonte e issues: https://github.com/moodle-fields-suite/tool_categorycustomfields
+* Código-fonte e issues: https://github.com/moodle-fields-suite/moodle-tool_categorycustomfields
